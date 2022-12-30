@@ -1,0 +1,14 @@
+{
+  "name": "time-master",
+  "version": "1.0.0",
+  "description": "The web timer allows you to quickly start tracking your time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "Timer"
+  ],
+  "author": "Mhee Namchok",
+  "license": "MIT"
+}
